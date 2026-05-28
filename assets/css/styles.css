@@ -7,7 +7,7 @@
 }
 
 :root {
-  --background: #000000;
+  --background: #051f27;
   --surface: #0f1112;
   --surface-alt: #161718;
   --text: #00d1ff; /* cyan */
@@ -31,6 +31,10 @@ body {
 
 body {
   line-height: 1.6;
+}
+
+a {
+  color: #0c61ff;
 }
 
 img {
@@ -87,7 +91,7 @@ img {
 }
 
 .site-nav a {
-  color: var(--muted);
+  color: #0c61ff;
   text-decoration: none;
   transition: color 0.2s ease;
 }
@@ -199,7 +203,7 @@ img {
 }
 
 .contact-panel a {
-  color: var(--accent);
+  color: #0c61ff;
   text-decoration: none;
 }
 
