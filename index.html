@@ -5,10 +5,12 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://discord.com https://platform.x.com https://platform.twitter.com https://elfsightcdn.com https://static.elfsight.com 'unsafe-hashes' 'sha256-AVfpjc+UsU1ggkwYHoIDu13BGOeB9xfNojELh+kKwp0=' 'sha256-FuuHjYmsjN4+Rp+X1zjqNd40ybHJDlFaqsbfXLod8xQ=' 'sha256-OXLvb6ZqUq2tQuZDdS99OXGffkddK2w2tgVe0iV7joA='; frame-src https://discord.com https://platform.x.com https://elfsight.com https://core.service.elfsight.com; style-src 'self' 'unsafe-inline' https://elfsightcdn.com; img-src 'self' data: https:; connect-src 'self' https://discord.com https://platform.x.com https://platform.twitter.com https://elfsight.com https://core.service.elfsight.com https://widget-data.service.elfsight.com https://api.twitter.com https://cdn.api.twitter.com https://storage.elfsight.com; font-src 'self' data: https://elfsightcdn.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content" />
+    <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self'; script-src 'self' https://discord.com https://platform.x.com https://platform.twitter.com https://elfsightcdn.com https://static.elfsight.com 'unsafe-hashes' 'sha256-AVfpjc+UsU1ggkwYHoIDu13BGOeB9xfNojELh+kKwp0=' 'sha256-FuuHjYmsjN4+Rp+X1zjqNd40ybHJDlFaqsbfXLod8xQ=' 'sha256-OXLvb6ZqUq2tQuZDdS99OXGffkddK2w2tgVe0iV7joA='; frame-src https://discord.com https://platform.x.com https://elfsight.com https://core.service.elfsight.com; style-src 'self' 'unsafe-inline' https://elfsightcdn.com; img-src 'self' data: https:; connect-src 'self' https://discord.com https://platform.x.com https://platform.twitter.com https://elfsight.com https://core.service.elfsight.com https://widget-data.service.elfsight.com https://api.twitter.com https://cdn.api.twitter.com https://storage.elfsight.com; font-src 'self' data: https://elfsightcdn.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content" />
     <meta http-equiv="X-Content-Type-Options" content="nosniff" />
     <meta name="referrer" content="strict-origin-when-cross-origin" />
-    <meta name="permissions-policy" content="geolocation=(), microphone=(), camera=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=()" />
+    <meta name="permissions-policy"
+        content="geolocation=(), microphone=(), camera=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=()" />
     <title>Midnite Run | Home</title>
     <link rel="stylesheet" href="assets/css/styles.css" />
 </head>
@@ -74,17 +76,19 @@
         </section>
     </main>
     <div class="widget-wrap">
+        <!-- Elfsight Twitter Feed | Untitled Twitter Feed -->
+        <script src="https://elfsightcdn.com/platform.js" async></script>
+        <div class="elfsight-app-84225fea-7e5c-4de3-b4aa-fe956ac8fa4a" data-elfsight-app-lazy title="Twitter Feed">
+        </div>
+        <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+    </div>
+    <div class="widget-wrap">
         <iframe class="discord-widget" src="https://discord.com/widget?id=1305632585371746374&theme=dark" width="350"
             height="250" allowtransparency="true" frameborder="0" loading="lazy"
             sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
             title="Discord Server Widget"></iframe>
     </div>
-    <div class="widget-wrap">
-        <!-- Elfsight Twitter Feed | Untitled Twitter Feed -->
-        <script src="https://elfsightcdn.com/platform.js" async></script>
-        <div class="elfsight-app-84225fea-7e5c-4de3-b4aa-fe956ac8fa4a" data-elfsight-app-lazy title="Twitter Feed"></div>
-        <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-    </div>
+
     <footer class="site-footer">
         <div class="container">
             <p>© 2026 Midnite Run Studios. Built with HTMX. Hosted by Github-Pages</p>

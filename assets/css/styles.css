@@ -139,6 +139,17 @@ img {
   gap: 1rem;
 }
 
+.theme-elements {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+}
+
+.theme-elements > * {
+  min-width: 0;
+}
+
 .button {
   display: inline-flex;
   align-items: center;
