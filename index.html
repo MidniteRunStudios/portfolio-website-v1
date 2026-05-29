@@ -4,6 +4,11 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://discord.com https://platform.x.com https://elfsightcdn.com; frame-src https://discord.com https://platform.x.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https:; font-src 'self' data:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content" />
+    <meta http-equiv="X-Content-Type-Options" content="nosniff" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <meta name="permissions-policy" content="geolocation=(), microphone=(), camera=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=()" />
     <title>Midnite Run | Home</title>
     <link rel="stylesheet" href="assets/css/styles.css" />
 </head>
@@ -42,7 +47,7 @@
                 </p>
                 <div class="hero-actions">
                     <a class="button" href="https://midniterunstudios.itch.io/" target="_blank"
-                        rel="noreferrer noopener">ITCH.IO</a>
+                        rel="noopener noreferrer">ITCH.IO</a>
                 </div>
 
             </article>
@@ -51,7 +56,7 @@
                 <p>Featuring concept art, character designs, and environment visuals.</p>
                 <div class="hero-actions">
                     <a class="button" href="https://www.deviantart.com/midniterun" target="_blank"
-                        rel="noreferrer noopener">DeviantART</a>
+                        rel="noopener noreferrer">DeviantART</a>
                 </div>
             </article>
             <article>
@@ -59,9 +64,9 @@
                 <p>Catch us live, or enjoy a developer diary!</p>
                 <div class="hero-actions">
                     <a class="button" href="https://www.youtube.com/@midniterunstudios" target="_blank"
-                        rel="noreferrer noopener">Youtube</a>
+                        rel="noopener noreferrer">Youtube</a>
                     <a class="button" href="https://www.twitch.tv/midniterunstudios" target="_blank"
-                        rel="noreferrer noopener">Twitch</a>
+                        rel="noopener noreferrer">Twitch</a>
                 </div>
                 <div class="hero-actions">
                 </div>
@@ -70,13 +75,14 @@
     </main>
     <div class="widget-wrap">
         <iframe class="discord-widget" src="https://discord.com/widget?id=1305632585371746374&theme=dark" width="350"
-            height="250" allowtransparency="true" frameborder="0"
-            sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+            height="250" allowtransparency="true" frameborder="0" loading="lazy"
+            sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
+            title="Discord Server Widget"></iframe>
     </div>
     <div class="widget-wrap">
         <!-- Elfsight Twitter Feed | Untitled Twitter Feed -->
         <script src="https://elfsightcdn.com/platform.js" async></script>
-        <div class="elfsight-app-84225fea-7e5c-4de3-b4aa-fe956ac8fa4a" data-elfsight-app-lazy></div>
+        <div class="elfsight-app-84225fea-7e5c-4de3-b4aa-fe956ac8fa4a" data-elfsight-app-lazy title="Twitter Feed"></div>
         <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
     </div>
     <footer class="site-footer">
