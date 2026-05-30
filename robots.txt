@@ -1,0 +1,19 @@
+# Robots.txt for Portfolio Website
+# Allow search engines to crawl the site for SEO optimization
+
+User-agent: *
+Allow: /
+Disallow: /assets/
+
+# Specific crawl delays (optional - helps with server resources)
+Crawl-delay: 1
+
+# Specific directives for Bing
+User-agent: Bingbot
+Allow: /
+
+# Block bad bots (optional)
+User-agent: MJ12bot
+Disallow: /
+
+Sitemap: https://midnite.run/sitemap.xml
