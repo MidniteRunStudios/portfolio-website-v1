@@ -183,6 +183,22 @@ img {
   border-radius: 1rem;
   padding: 1.75rem;
 }
+.ref-panel {
+  background: rgba(20, 20, 20, 0.88);
+  border: 1px solid rgba(0, 201, 255, 0.08);
+  border-radius: 1rem;
+  padding: 1.75rem;
+}
+.ref-panel h2 {
+  margin-top: 0;
+}
+.ref-panel a {
+  color: #0c61ff;
+  text-decoration: none;
+}
+.ref-panel div {
+  justify-content: center;
+}
 
 .features article h2,
 .content-section h2,
