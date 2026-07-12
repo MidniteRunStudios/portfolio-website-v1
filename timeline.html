@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="SOK Wiki: Glossary, and Character Profiles" />
+    <link rel="canonical" href="https://midnite.run/sokwiki" />
+    <link rel="icon" href="favicon.png" type="image/png" />
+    <title>SOK Wiki | Midnite.Run</title>
+    <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+
+<body>
+    <header class="site-header">
+        <div class="container header-inner">
+            <a class="brand" href="index.html">Midnite.Run</a>
+            <nav class="site-nav">
+                <a href="index.html">Home</a>
+                <a href="about.html">About Us</a>
+                <a href="knowledgecenter.html">Knowledge Center</a>
+                <a href="sokwiki.html">SOK Wiki</a>
+                <a href="contact.html">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container page-content">
+        <section class="hero">
+            <div class="container">
+                <h1>Scars of Kalakar Official Timeline</h1>
+                <p>Explore the key events and milestones that have shaped the world of SOK.</p>
+            </div>
+        </section>
+
+        <section id="glossary" class="ref-panel">
+            <article>
+                <div id="gantt_here" style="width: 100%; height: 800px;"></div>
+            </article>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>© 2026 Midnite Run Studios. Built with HTMX. Hosted by Github-Pages</p>
+        </div>
+    </footer>
+</body>
+<script src="plugins/gantt-mit/dhtmlxgantt.js"></script>
+<script>
+    const timelineDataUrl = "data/json/timeline.json";
+    fetch(timelineDataUrl)
+        .then(response => response.json())
+        .then(data => {
+            console.log(data);
+            // use your timeline data here
+        });
+    gantt.attachEvent("onAjaxError", function (request) {
+        if (!request.status || !request.response) {
+            gantt.message({
+                text: webserverWarningText,
+                expire: -1
+            })
+        }
+        return true;
+    });
+
+    gantt.config.date_format = "%Y-%m-%d %H:%i:%s";
+    gantt.config.readonly = true;
+    gantt.config.columns = [
+        { name: "text", label: "Event", tree: true, width: 160 },
+        { name: "start_date", label: "Start Date", align: "center", width: 140 },
+        {
+            name: "duration", label: "End Date", align: "center", width: 140, template: function (task) {
+                const endDate = gantt.calculateEndDate(task).toISOString().slice(0, 10);
+                return endDate;
+            }
+        }
+    ];
+    gantt.config.scales = [
+        { unit: "year", step: 1, format: "%Y" },
+    ];
+    gantt.init("gantt_here");
+
+    fetch(timelineDataUrl)
+        .then(function (response) {
+            if (!response.ok) {
+                throw new Error("Failed to load timeline data");
+            }
+            return response.json();
+        })
+        .then(function (data) {
+            gantt.parse(data);
+        })
+        .catch(function (error) {
+            console.error("Unable to load timeline data:", error);
+        });
+</script>
+
+<link rel="stylesheet" href="plugins/gantt-mit/dhtmlxgantt.css">
+
+</html>
