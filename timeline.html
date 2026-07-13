@@ -68,10 +68,10 @@
     gantt.config.date_format = "%Y-%m-%d %H:%i:%s";
     gantt.config.readonly = true;
     gantt.config.columns = [
-        { name: "text", label: "Event", tree: true, width: 160 },
-        { name: "start_date", label: "Start Date", align: "center", width: 140 },
+        { name: "text", label: "Event", tree: true, width: 200 },
+        { name: "start_date", label: "Start Date", align: "center", width: 100 },
         {
-            name: "duration", label: "End Date", align: "center", width: 140, template: function (task) {
+            name: "duration", label: "End Date", align: "center", width: 100, template: function (task) {
                 const endDate = gantt.calculateEndDate(task).toISOString().slice(0, 10);
                 return endDate;
             }
