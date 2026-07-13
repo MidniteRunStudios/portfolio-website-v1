@@ -33,9 +33,16 @@
             </div>
         </section>
 
-        <section id="glossary" class="ref-panel">
+        <section id="timeline" class="ref-panel">
+            <label for="yearScale">Year Scale</label>
+            <select id="yearScale" name="yearScale">
+                <option value="10">10 years</option>
+                <option value="25">25 years</option>
+                <option value="50" selected>50 years</option>
+                <option value="100">100 years</option>
+            </select>
             <article>
-                <div id="gantt_here" style="width: 100%; height: 800px;"></div>
+                <div id="gantt_here" style="width: 100%; height: 650px;"></div>
             </article>
         </section>
     </main>
@@ -65,6 +72,9 @@
         return true;
     });
 
+    const yearScale = document.getElementById("yearScale");
+    const step = parseInt(yearScale.value, 10);
+
     gantt.config.date_format = "%Y-%m-%d %H:%i:%s";
     gantt.config.readonly = true;
     gantt.config.columns = [
@@ -78,8 +88,16 @@
         }
     ];
     gantt.config.scales = [
-        { unit: "year", step: 1, format: "%Y" },
+        { unit: "year", step: step, format: "%Y" },
     ];
+
+    yearScale.addEventListener("change", function () {
+        gantt.config.scales = [
+            { unit: "year", step: parseInt(this.value, 10), format: "%Y" }
+        ];
+        gantt.render();
+    });
+
     gantt.init("gantt_here");
 
     fetch(timelineDataUrl)
