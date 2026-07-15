@@ -27,6 +27,28 @@ body {
   font-family: 'NewRodin', Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   color: var(--text);
   background: radial-gradient(circle at top, rgba(0, 201, 255, 0.08), transparent 40%), var(--background);
+  scrollbar-width: thick;
+  scrollbar-color: var(--accent) rgba(255, 255, 255, 0.08);
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--accent);
+  border-radius: 999px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-dark);
 }
 
 body {
