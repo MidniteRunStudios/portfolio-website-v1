@@ -90,7 +90,29 @@
     gantt.config.scales = [
         { unit: "year", step: step, format: "%Y" },
     ];
-
+    gantt.config.layout = {
+        css: "gantt_container",
+        cols: [
+            {
+                // adding horizontal scrollbar to the grid via the scrollX attribute
+                rows: [
+                    {
+                        view: "grid", scrollX: "gridScroll", scrollable: true, /*!*/
+                        scrollY: "scrollVer" /*!*/
+                    }, /*!*/
+                    { view: "scrollbar", id: "gridScroll" } /*!*/
+                ]
+            },
+            { resizer: true, width: 1 },
+            {
+                rows: [
+                    { view: "timeline", scrollX: "scrollHor", scrollY: "scrollVer" },
+                    { view: "scrollbar", id: "scrollHor" }
+                ]
+            },
+            { view: "scrollbar", id: "scrollVer" }
+        ]
+    };
     yearScale.addEventListener("change", function () {
         gantt.config.scales = [
             { unit: "year", step: parseInt(this.value, 10), format: "%Y" }
