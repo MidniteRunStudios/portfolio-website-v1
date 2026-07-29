@@ -7,13 +7,13 @@
 }
 
 :root {
-  --background: #051f27;
-  --surface: #0f1112;
-  --surface-alt: #161718;
-  --text: #00d1ff; /* cyan */
-  --muted: #99e9ff; /* softer cyan */
-  --accent: #00c9ff; /* accent cyan */
-  --accent-dark: #00a1cc;
+  --background: #21222c;
+  --surface: #191a21;
+  --surface-alt: #191a21;
+  --text: #f8f8f2; 
+  --muted: #8be9fd; 
+  --accent: #50fa7b;
+  --accent-dark: #bd93f9;
 }
 
 * {
@@ -70,7 +70,7 @@ img {
 }
 
 .site-header {
-  background: rgba(0, 0, 0, 0.96);
+  background: #21222c;
   border-bottom: 1px solid rgba(0, 201, 255, 0.08);
   position: sticky;
   top: 0;
@@ -113,7 +113,7 @@ img {
 }
 
 .site-nav a {
-  color: #0c61ff;
+  color: #50fa7b;
   text-decoration: none;
   transition: color 0.2s ease;
 }
