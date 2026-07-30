@@ -1,4 +1,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://midnite.run/</loc>
+    <lastmod>2023-08-23T19:09:04.000Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/fauna/boga</loc>
+    <lastmod>2026-07-28T02:59:57.165Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/fauna/coughrog</loc>
+    <lastmod>2026-07-28T03:00:00.216Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/flora/munch-room</loc>
+    <lastmod>2026-07-28T03:00:38.525Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/glossary/maternal-mortality</loc>
+    <lastmod>2026-07-26T09:14:56.665Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/glossary/mindmeld</loc>
+    <lastmod>2026-07-26T09:19:38.974Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/glossary/sapient</loc>
+    <lastmod>2026-07-25T05:00:56.571Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/locations/headspring</loc>
+    <lastmod>2026-07-26T19:11:16.326Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/locations/kalakar-desert</loc>
+    <lastmod>2026-07-26T20:39:10.619Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/locations/kalakar</loc>
+    <lastmod>2026-07-25T05:20:48.258Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/locations/molania</loc>
+    <lastmod>2026-07-25T04:51:57.514Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/locations/stepperback-city</loc>
+    <lastmod>2026-07-26T20:37:25.604Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/sapient-races/burlian</loc>
+    <lastmod>2026-07-26T09:16:13.867Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/sapient-races/drengar</loc>
+    <lastmod>2026-07-26T09:16:23.116Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/sapient-races/elegin</loc>
+    <lastmod>2026-07-28T01:52:37.156Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/sapient-races/equu</loc>
+    <lastmod>2026-07-26T21:13:10.313Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/sapient-races/gaian</loc>
+    <lastmod>2026-07-26T09:16:49.899Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/sapient-races/halifari</loc>
+    <lastmod>2026-07-28T03:06:10.763Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/sapient-races/junkofuya</loc>
+    <lastmod>2026-07-26T09:16:59.361Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/sapient-races/kalakain</loc>
+    <lastmod>2026-07-26T09:17:07.894Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/sapient-races/kralerian</loc>
+    <lastmod>2026-07-26T09:17:16.660Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/sapient-races/lost-one</loc>
+    <lastmod>2026-07-28T01:52:37.158Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/sapient-races/muri</loc>
+    <lastmod>2026-07-26T09:20:08.223Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/sapient-races/rastarian</loc>
+    <lastmod>2026-07-28T01:31:55.481Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/sapient-races/toulikour</loc>
+    <lastmod>2026-07-26T09:22:55.233Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/hardware/viekk-tablet</loc>
+    <lastmod>2026-07-30T03:55:22.555Z</lastmod>
+  </url><url>
     <loc>https://midnite.run/scars-of-kalakar/characters/main/aberdine-salazar-abacus</loc>
     <lastmod>2026-07-26T22:12:21.475Z</lastmod>
   </url><url>
@@ -59,38 +137,11 @@
     <loc>https://midnite.run/scars-of-kalakar/characters/side/tal</loc>
     <lastmod>2026-07-26T20:29:18.141Z</lastmod>
   </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/fauna/boga</loc>
-    <lastmod>2026-07-28T02:59:57.165Z</lastmod>
+    <loc>https://midnite.run/scars-of-kalakar/magiq/darq-magi/blood-magiq</loc>
+    <lastmod>2026-07-26T07:55:57.690Z</lastmod>
   </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/fauna/coughrog</loc>
-    <lastmod>2026-07-28T03:00:00.216Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/flora/munch-room</loc>
-    <lastmod>2026-07-28T03:00:38.525Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/glossary/maternal-mortality</loc>
-    <lastmod>2026-07-26T09:14:56.665Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/glossary/mindmeld</loc>
-    <lastmod>2026-07-26T09:19:38.974Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/glossary/sapient</loc>
-    <lastmod>2026-07-25T05:00:56.571Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/locations/headspring</loc>
-    <lastmod>2026-07-26T19:11:16.326Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/locations/kalakar-desert</loc>
-    <lastmod>2026-07-26T20:39:10.619Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/locations/kalakar</loc>
-    <lastmod>2026-07-25T05:20:48.258Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/locations/molania</loc>
-    <lastmod>2026-07-25T04:51:57.514Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/locations/stepperback-city</loc>
-    <lastmod>2026-07-26T20:37:25.604Z</lastmod>
+    <loc>https://midnite.run/scars-of-kalakar/magiq/lyte-magi/esprit-magi</loc>
+    <lastmod>2026-07-26T07:55:36.066Z</lastmod>
   </url><url>
     <loc>https://midnite.run/scars-of-kalakar/lore/0---the-lost-era/0000-00-00</loc>
     <lastmod>2026-07-26T08:57:05.217Z</lastmod>
@@ -152,12 +203,6 @@
     <loc>https://midnite.run/scars-of-kalakar/lore/2--guilded-age/1772-06-19</loc>
     <lastmod>2026-07-28T02:18:49.133Z</lastmod>
   </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/magiq/darq-magi/blood-magiq</loc>
-    <lastmod>2026-07-26T07:55:57.690Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/magiq/lyte-magi/esprit-magi</loc>
-    <lastmod>2026-07-26T07:55:36.066Z</lastmod>
-  </url><url>
     <loc>https://midnite.run/scars-of-kalakar/politics/armies/koa</loc>
     <lastmod>2026-07-26T08:05:42.179Z</lastmod>
   </url><url>
@@ -191,45 +236,6 @@
     <loc>https://midnite.run/scars-of-kalakar/politics/ideologies/proclivist</loc>
     <lastmod>2026-07-26T08:14:22.563Z</lastmod>
   </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/sapient-races/burlian</loc>
-    <lastmod>2026-07-26T09:16:13.867Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/sapient-races/drengar</loc>
-    <lastmod>2026-07-26T09:16:23.116Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/sapient-races/elegin</loc>
-    <lastmod>2026-07-28T01:52:37.156Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/sapient-races/equu</loc>
-    <lastmod>2026-07-26T21:13:10.313Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/sapient-races/gaian</loc>
-    <lastmod>2026-07-26T09:16:49.899Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/sapient-races/halifari</loc>
-    <lastmod>2026-07-28T03:06:10.763Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/sapient-races/junkofuya</loc>
-    <lastmod>2026-07-26T09:16:59.361Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/sapient-races/kalakain</loc>
-    <lastmod>2026-07-26T09:17:07.894Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/sapient-races/kralerian</loc>
-    <lastmod>2026-07-26T09:17:16.660Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/sapient-races/lost-one</loc>
-    <lastmod>2026-07-28T01:52:37.158Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/sapient-races/muri</loc>
-    <lastmod>2026-07-26T09:20:08.223Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/sapient-races/rastarian</loc>
-    <lastmod>2026-07-28T01:31:55.481Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/sapient-races/toulikour</loc>
-    <lastmod>2026-07-26T09:22:55.233Z</lastmod>
-  </url><url>
     <loc>https://midnite.run/scars-of-kalakar/technology/lost-tek/mechaloid</loc>
     <lastmod>2026-07-26T19:59:49.169Z</lastmod>
   </url><url>
@@ -239,75 +245,225 @@
     <loc>https://midnite.run/scars-of-kalakar/technology/lost-tek/terran-incubator</loc>
     <lastmod>2026-07-25T22:41:08.450Z</lastmod>
   </url><url>
-    <loc>https://midnite.run/</loc>
-    <lastmod>2023-08-23T19:09:04.000Z</lastmod>
+    <loc>https://midnite.run/webring/art-and-assets/fonts/opendyslexic</loc>
+    <lastmod>2026-07-30T02:46:59.216Z</lastmod>
   </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/characters/main/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
+    <loc>https://midnite.run/webring/art-and-assets/game-assets/itch.io-template-guide</loc>
+    <lastmod>2026-07-30T02:45:20.012Z</lastmod>
   </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/characters/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
+    <loc>https://midnite.run/webring/art-and-assets/game-assets/kay-lousberg's-game-assets</loc>
+    <lastmod>2026-07-30T03:04:06.244Z</lastmod>
   </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
+    <loc>https://midnite.run/webring/art-and-assets/game-assets/kenney.nl</loc>
+    <lastmod>2026-07-30T03:01:23.446Z</lastmod>
   </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/characters/side/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
+    <loc>https://midnite.run/webring/art-and-assets/game-assets/opengameart.org</loc>
+    <lastmod>2026-07-30T03:05:00.789Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/art-and-assets/game-assets/quaternius</loc>
+    <lastmod>2026-07-30T04:22:32.319Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/art-and-assets/reference-material/posemy.art</loc>
+    <lastmod>2026-07-30T02:49:03.710Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/art-and-assets/software/aseprite</loc>
+    <lastmod>2026-07-30T03:51:18.839Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/art-and-assets/software/blender3d</loc>
+    <lastmod>2026-07-30T05:16:02.042Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/art-and-assets/software/inkscape</loc>
+    <lastmod>2026-07-30T03:51:58.016Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/art-and-assets/software/krita</loc>
+    <lastmod>2026-07-30T04:04:53.114Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/audio/music/incompetech</loc>
+    <lastmod>2026-07-30T03:08:11.517Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/audio/music/newgrounds-audio-portal</loc>
+    <lastmod>2026-07-30T03:13:13.863Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/audio/software/handbrake</loc>
+    <lastmod>2026-07-30T03:15:12.772Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/gaming/elite-dangerous/inara</loc>
+    <lastmod>2026-07-30T04:43:25.607Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/godot/reference/easing-functions-cheat-sheet</loc>
+    <lastmod>2026-07-30T04:44:39.440Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/godot/reference/godot-shaders</loc>
+    <lastmod>2026-07-30T04:47:01.849Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/godot/software/rcedit</loc>
+    <lastmod>2026-07-30T04:45:45.873Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/programming/books/clean-code---robert-c.-martin</loc>
+    <lastmod>2026-07-30T04:29:32.013Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/programming/books/the-c-player's-guide-(5th-edition)</loc>
+    <lastmod>2026-07-30T04:37:59.987Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/programming/software/beyond-compare</loc>
+    <lastmod>2026-07-30T04:51:26.894Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/programming/software/obsidian</loc>
+    <lastmod>2026-07-30T05:18:59.155Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/programming/tutorials/quartz-for-obsidian</loc>
+    <lastmod>2026-07-30T05:16:51.963Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/streaming/vtuber/veadotube</loc>
+    <lastmod>2026-07-30T03:37:46.318Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/streaming/video-software/discord-stream-kit-overlay</loc>
+    <lastmod>2026-07-30T05:01:14.277Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/streaming/video-software/obs-studio</loc>
+    <lastmod>2026-07-30T03:40:41.763Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/unity-engine/communities/rec-room-studio</loc>
+    <lastmod>2026-07-30T04:06:01.261Z</lastmod>
   </url><url>
     <loc>https://midnite.run/scars-of-kalakar/fauna/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
   </url><url>
     <loc>https://midnite.run/scars-of-kalakar/flora/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
   </url><url>
     <loc>https://midnite.run/scars-of-kalakar/glossary/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
   </url><url>
     <loc>https://midnite.run/scars-of-kalakar/locations/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/lore/0---the-lost-era/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/lore/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/lore/1---discovery-era/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/lore/2--guilded-age/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/magiq/darq-magi/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/magiq/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/magiq/lyte-magi/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/politics/armies/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/politics/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/politics/goverment/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
-  </url><url>
-    <loc>https://midnite.run/scars-of-kalakar/politics/ideologies/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
   </url><url>
     <loc>https://midnite.run/scars-of-kalakar/sapient-races/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/hardware/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/characters/main/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/characters/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/characters/side/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/magiq/darq-magi/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/magiq/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/magiq/lyte-magi/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/lore/0---the-lost-era/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/lore/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/lore/1---discovery-era/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/lore/2--guilded-age/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/politics/armies/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/politics/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/politics/goverment/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/scars-of-kalakar/politics/ideologies/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
   </url><url>
     <loc>https://midnite.run/scars-of-kalakar/technology/lost-tek/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
   </url><url>
     <loc>https://midnite.run/scars-of-kalakar/technology/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/art-and-assets/fonts/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/art-and-assets/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/art-and-assets/game-assets/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/art-and-assets/reference-material/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/art-and-assets/software/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/audio/music/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/audio/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/audio/software/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/gaming/elite-dangerous/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/gaming/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/godot/reference/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/godot/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/godot/software/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/programming/books/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/programming/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/programming/software/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/programming/tutorials/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/streaming/vtuber/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/streaming/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/streaming/video-software/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/unity-engine/communities/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
+  </url><url>
+    <loc>https://midnite.run/webring/unity-engine/</loc>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
   </url><url>
     <loc>https://midnite.run/tags/</loc>
-    <lastmod>2026-07-29T08:43:03.807Z</lastmod>
+    <lastmod>2026-07-30T05:47:34.212Z</lastmod>
   </url></urlset>
